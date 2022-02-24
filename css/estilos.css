@@ -632,7 +632,7 @@ footer .footer-redes a:hover {
 .main .contacto .datos .container .recuadros:lastchild {
   margin-bottom: 0;
 }
-@media all and (max-width: 800px) {
+@media all and (max-width: 940px) {
   header .menu-bar-pc {
     display: none;
   }
